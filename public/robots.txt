@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://gametamin.site/
+
+# Sitemaps
+Sitemap: https://gametamin.site/sitemap.xml

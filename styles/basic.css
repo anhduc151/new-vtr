@@ -1,0 +1,11 @@
+.basic_header_images:nth-child(1) {
+  transform: translateX(15%);
+}
+
+.basic_header_images:nth-child(2) {
+  transform: translateX(0%);
+}
+
+.basic_header_images:nth-child(3) {
+  transform: translateX(-20%);
+}

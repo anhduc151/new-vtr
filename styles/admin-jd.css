@@ -1,0 +1,85 @@
+/* css container */
+.jd_container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+}
+
+.jd_content {
+  width: 100%;
+  padding: 100px 300px;
+}
+
+.alljd_h2 {
+  color: #000;
+  font-size: 2rem;
+}
+
+.navbar_li {
+  position: absolute;
+  bottom: 0;
+}
+
+.alljd_button {
+  display: flex;
+  width: 150px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.alljd_buttons_edit {
+  background-color: cadetblue;
+  color: #fff;
+}
+
+.alljd_buttons_edit:hover,
+.alljd_buttons_delete:hover {
+  color: #fff !important;
+}
+
+.alljd_buttons_delete {
+  background-color: red;
+  color: #fff;
+}
+
+.addjd_submit {
+  background-color: brown;
+  color: #fff;
+}
+
+.label-white {
+  color: #000;
+}
+
+/* css login */
+.jd_login {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.jd_login_forms {
+  background: linear-gradient(145deg, #8d269c 0%, #4317a7 100%) !important;
+  /* padding: 10%; */
+  padding: 2%;
+  width: 400px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+.jd_login_forms_h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 50px;
+}
+
+.jd_button_login {
+  background-color: brown;
+}
+
+.jd_form_login_buttons {
+  text-align: center;
+  width: 100%;
+}

@@ -140,7 +140,7 @@ export default function AboutUs(props: AboutUsProps) {
               <div className="infor_column1_box1">
                 <div className="infor-box1-header">
                   <h5 className="infor_box1_header_h5">5</h5>
-                  <h4 className="infor_box1_header_h4">OUR GAMES</h4>
+                  <h4 className="infor_box1_header_h4">OUR GAME</h4>
                 </div>
 
                 <div className="infor_box1-images">
@@ -534,7 +534,7 @@ export default function AboutUs(props: AboutUsProps) {
 
         <div className="">
           <div className="features_h1">
-            <h1 className="features_h1_name">Company's Events</h1>
+            <h1 className="features_h1_name">Company Events</h1>
             <h3 className="features_h3_name">
               Where passion meets excitement, and memories are made.
             </h3>
